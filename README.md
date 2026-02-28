@@ -11,7 +11,7 @@ I work across the full stack — from React interfaces to Node.js and Python API
 
 ---
 
-**Flagship Project**
+**Highlighted Project**
 
 **[KABAN](https://github.com/badex-ai/clouddev)** — Full stack app deployed on AWS EKS with a production-grade DevOps pipeline underneath it.
 
@@ -45,4 +45,4 @@ Other        Bash · Linux · CloudWatch · Sentry
 
 ---
 
-**[CKA — Linux Foundation](https://www.credly.com/badges/07839cdc-5c80-4c9e-bb44-4e0772ee3d97)** &nbsp;|&nbsp; Cloud Developer Nanodegree — Udacity &nbsp;|&nbsp; B.Sc. Electrical Engineering — OAU &nbsp;|&nbsp; IELTS 7.5
+**[CKA — Linux Foundation](https://www.credly.com/badges/07839cdc-5c80-4c9e-bb44-4e0772ee3d97)** &nbsp;|&nbsp; Cloud Developer Nanodegree — Udacity &nbsp;|&nbsp; B.Sc. Electrical Engineering  &nbsp;|&nbsp; IELTS — Professional
